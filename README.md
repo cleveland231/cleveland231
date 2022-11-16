@@ -2,9 +2,9 @@
 
 I just graduated from Turing School of Software and Design with a focus in Front-End development. Prior to studying at Turing I have worked in health care and in oil and energy. These busy environments have taught me how to quickly adapt and communicate on different teams. Eventually I realized that I would rather apply my intellect to the world of software development. This new trajectory has been immensely rewarding and I look forward to broadening and sharpening my skill set in the future.
 
-<p align="center">
-Front-End Software Developer Certificate from <a href="https://turing.edu/">Turing School of Software & Design</a>
-</p>
+You can also connect with me at **ayocleveland@gmail.com**.
+
+<h3 align="center">You can also connect with me at **ayocleveland@gmail.com**.</h3>
 
 ### Languages/Frameworks
 
@@ -47,7 +47,3 @@ Front-End Software Developer Certificate from <a href="https://turing.edu/">Turi
   <img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   <img alt="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
  </div>
- 
- <p align="center">
-Front-End Software Developer Certificate from <a href="https://turing.edu/">Turing School of Software & Design</a>
-</p>
